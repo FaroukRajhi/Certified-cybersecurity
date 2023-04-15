@@ -1,0 +1,5 @@
+When determining an organization’s vulnerabilities, the security team will consider the probability, or likelihood, of a potential vulnerability being exploited within the construct of the organization’s threat environment. Likelihood of Occurrence is a weighted factor based on a subjective analysis of the probability that a given threat or set of threats is capable of exploiting a given vulnerability or set of vulnerabilities.
+
+Finally, the security team will consider the likely results if a threat is realized and an event occurs. Impact is the magnitude of harm that can be expected to result from the consequences of unauthorized disclosure of information, unauthorized modification of information, unauthorized destruction of information, or loss of information or information system availability.
+
+ Think about the impact and the chain of reaction that can result when an event occurs by revisiting the pickpocket scenario on the next page
